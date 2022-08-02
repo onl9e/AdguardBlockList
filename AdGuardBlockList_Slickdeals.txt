@@ -69,6 +69,38 @@
 ||technoratimedia.com^
 ||ssum-sec.casalemedia.com^
 ||tcheck.outbrainimg.com^
+||web.usebutton.com^
+||d.btttag.com^
+||hexagon-analytics.com^
+||doubleverify.com^
+||web.btncdn.com^
+||api.schemaapp.com^
+||bidr.io^
+||truste.com^
+||dotomi.com^
+||evidon.com^
+||geo.privacymanager.io^
+||l.betrad.com^
+||moatads.com^
+||sonobi.com^
+||dyntrk.com^
+||dummyimage.com^
+||g.rtbrain.app^
+||polyfill.io^
+||stackadapt.com^
+||storygize.net^
+||smaato.net^
+||rqtrk.eu^
+||rimxqx.slickdeals.net^
+||w55c.net^
+||vid1051.d41.co^
+||odr.mookie1.com^
+||oajs.xopenx.net^
+||google-bidout-d.openx.net^
+||beacon.sojern.com^
+||cdn.id5-sync.com^
+||appier.net^
+
 
 !  Xfinity service tracker and or ad blocker
 ||bat.bing.com^
@@ -146,6 +178,31 @@
 @@||landing.terminix.com^$important
 @@||device-metrics-us-2.amazon.com^$important
 
+
+! Sandesh website
+||stickyadstv.com^
+||bfmio.com^
+||lijit.com^
+||hotlist.tradingview.com^
+||deepintent.com^
+||gumgum.com^
+||id.sharedid.org^
+||idpredictive.com^
+||mediarithmics.com^
+||rfihub.com^
+||contextweb.com^
+||graphql.api.dailymotion.com^
+||hb.aralego.com^
+
+! Qatar Airways
+||analytics.twitter.com^
+||alb.reddit.com^
+
+
+! Sams Club
+||b.wal.co^
+||beacon.samsclub.com^
+||samsclub.demdex.net^
 ! multiple known subdomains are covered by the definition below
 ||ids.ad.gt^
 ! ||seg.ad.gt^
