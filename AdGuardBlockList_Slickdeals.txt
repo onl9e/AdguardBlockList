@@ -1,0 +1,48 @@
+! Title: Block website with tracking 
+! Version: 20220801.2
+! Description: Block various website tracking ads.
+! Adblock format compatible with AdGuard Home.
+! Information gathered from multiple adblocking forums, and SlickDeals network.
+
+||bttrack.com^
+||sharethrough.com^
+||adnx.com^ 
+||demdex.net^
+||analytics.tiktok.com^
+||quantserve.com^
+||rubiconproject.com^ 
+||indexww.com^ 
+||zemanta.com^
+||hotjar.com^
+||innovid.com^
+||s.pinimg.com^
+||agkn.com^
+||htlb.casalemedia.com^
+||yummy.maggieeatstheangel.com^
+||2mdn.net^
+||api.rlcdn.com^
+||s0.2mdn.net^
+||protected-by.clarium.io^
+||www.upsellit.com^
+||casalemedia.com^
+||mathtag.com^
+||1rx.io^
+||adsrvr.org^
+||myvisualiq.net^
+||taboola.com^
+||smartadserver.com^
+||tapestry.tapad.com^
+||u.openx.net^
+||17de4c1b.akstat.io^
+||l.betrad.com^
+||vc.hotjar.io^
+||33across.com^
+||appier.net^
+||b.clarity.ms^
+
+! multiple known subdomains are covered by the definition below
+||ids.ad.gt^
+! ||seg.ad.gt^
+! ||id.halo.ad.gt^ 
+! ||p.ad.gt^ 
+! ||pixels.ad.gt^ 
