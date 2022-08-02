@@ -100,6 +100,52 @@
 ||mobile-collector.newrelic.com^
 ||res.cloudinary.com^
 
+! Custom Block list 
+||telemetry-ingestion.us-ashburn-1.oraclecloud.com^$important
+||content.uplynk.com^$important
+||instance-agent.us-ashburn-1.oci.oraclecloud.com^$important
+||star-mini.c10r.facebook.com^$important
+||az764295.vo.msecnd.net^$important
+@@||ports.ubuntu.com^$important
+@@||e-10293.adzerk.net^$important
+@@||qms6dalc.micpn.com^$important
+||ftp.mozilla.org^$important
+||ac.cnstrc.com^$important
+||yahoovod.hs.llnwd.net^$important
+||vop-yahoo.akamaized.net^$important
+||ipinfo.io^$important
+||unpkg.com^$important
+||pilot.traefik.io^$important
+@@||www.facebook.com^$important
+||services.postcodeanywhere.co.uk^$important
+||fbsbx.com^$important
+||fbcdn.net^$important
+||scontent-iad3-2.xx.fbcdn.net^$important
+||census.us-east-1.nielsencollections.com^$important
+||weather.psg.nexstardigital.net^$important
+||cm2.lotlinx.com^$important
+||www.newsnationnow.com^$important
+||www.nxsttv.com^$important
+||crash-report-service.svc.ui.com^$important
+@@||static.xx.fbcdn.net^$important
+@@||pics.drugstore.com^$important
+||dorpat.geo.iponweb.net^$important
+@@||p2mltkgs.r.us-east-1.awstrack.me^$important
+@@||trace.svc.ui.com^$client='Router'
+||1161158153.rsc.cdn77.me^$important
+@@||s0.2mdn.net^$client='Router'
+@@||1161158153.rsc.cdn77.me^$client='Router'
+||www.boxofficemojo.com^$important
+||www.bookdepository.com^$important
+||www.comixology.com^$important
+||live01.keycdn.cc^$important
+||health.clevelandclinic.org^$important
+||clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com^$important
+||acsechocaptiveportal.com^$important
+||us-smarthome.arnoo.com^$important
+@@||landing.terminix.com^$important
+@@||device-metrics-us-2.amazon.com^$important
+
 ! multiple known subdomains are covered by the definition below
 ||ids.ad.gt^
 ! ||seg.ad.gt^
