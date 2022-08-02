@@ -39,6 +39,66 @@
 ||33across.com^
 ||appier.net^
 ||b.clarity.ms^
+! MSN related websites 
+||exelator.com^
+||eyota.net^
+||krxd.net^
+||mfadsrvr.com^
+||emxdgt.com^
+||adsrvr.org^
+||addition.com^
+||3lift.com^
+||1rx.io^
+||360yield.com^
+||www.civicscience.com^
+||www138.civicscience.com^
+||scorecardresearch.com^
+||log.outbrainimg.com^
+||btloader.com^
+||bidswitch.net^
+||pippio.com^
+||outbrain.com^
+||api.btloader.com^
+||trace.mediago.io^
+||crwdcntrl.net^
+||cs-server-s2s.yelloblue.io^
+||mem.gfx.ms^
+||sitescout.com^
+||spotxchange.com^
+||smartadserver.com^
+||technoratimedia.com^
+||ssum-sec.casalemedia.com^
+||tcheck.outbrainimg.com^
+
+!  Xfinity service tracker and or ad blocker
+||bat.bing.com^
+||comcast.demdex.net^
+||onetag-sys.com^
+||p.tvpixel.com^
+||bidder.criteo.com^
+||de.tynt.com^
+||eb2.3lift.com^
+||hde.tynt.com^
+||match.adsrvr.com^
+||micpn.com^
+||p.adsymptopic.com^
+
+
+! DuckDNS 
+||improving.duckduckgo.com^
+
+!HomeDepot
+||revjet.com^
+||liveperson.net^
+||turn.com^
+||www.thdws.com^
+||acuityplatform.com^
+||lpsnmededia.net^
+||api.qualaroo.com^
+
+! Xfinity Mobile App
+||mobile-collector.newrelic.com^
+||res.cloudinary.com^
 
 ! multiple known subdomains are covered by the definition below
 ||ids.ad.gt^
