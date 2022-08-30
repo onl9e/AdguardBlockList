@@ -209,3 +209,6 @@
 ! ||id.halo.ad.gt^ 
 ! ||p.ad.gt^ 
 ! ||pixels.ad.gt^ 
+
+! Mobile devices
+||clevertap-prod.com
